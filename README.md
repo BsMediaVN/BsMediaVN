@@ -52,7 +52,7 @@
 ## 📫 Contact
 
 - 💬 GitHub Issues / Discussions
-- ✉️ Email: your-email@example.com
+- ✉️ Email: quangboon9x@gmail.com
 
 ---
 
