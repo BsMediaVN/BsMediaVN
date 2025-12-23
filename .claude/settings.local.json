@@ -5,7 +5,12 @@
       "Bash(gh api:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(sips:*)",
+      "Bash(git fetch:*)",
+      "Bash(for:*)",
+      "Bash(do echo \"$f:\")",
+      "Bash(done)"
     ]
   }
 }
