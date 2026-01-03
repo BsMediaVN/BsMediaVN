@@ -96,11 +96,12 @@ Secure server management on the go
 
 ## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BsMediaVN&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BsMediaVN&show_icons=true&theme=default&hide_border=true&bg_color=00000000"
+    alt="GitHub Stats"
+  />
+</p>
 
 ---
 
