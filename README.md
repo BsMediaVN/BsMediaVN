@@ -39,7 +39,7 @@ Building practical mobile apps for developers — database clients, API tools, a
 
 <img src="https://raw.githubusercontent.com/BsMediaVN/BsMediaVN/main/assets/dbeaver.png" width="80" alt="DBeaver"/>
 
-### DBeaver
+### DBConnect
 **SQL & NoSQL Client**
 
 Mobile database client for developers
@@ -67,7 +67,7 @@ Disposable email for testing & privacy
 
 <img src="https://raw.githubusercontent.com/BsMediaVN/BsMediaVN/main/assets/postman.png" width="80" alt="Postman"/>
 
-### Postman
+### Post - API client
 **API Client**
 
 REST API testing on mobile
