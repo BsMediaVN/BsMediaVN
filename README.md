@@ -67,7 +67,7 @@ Disposable email for testing & privacy
 
 <img src="https://raw.githubusercontent.com/BsMediaVN/BsMediaVN/main/assets/postman.png" width="80" alt="Postman"/>
 
-### [Rest] Restforge.org - API client
+### Restforge.org - API client
 **API Client**
 
 REST API testing on mobile
